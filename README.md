@@ -1,7 +1,7 @@
-# CryptoClustering
+# Crypto Clustering
 This is Crypto Clustering Project by YK, UofT, Canada.
 
-***Using Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.***
+***Crypto Clustering using Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.***
 
 ![image](https://github.com/YargKlnc/CryptoClustering/assets/142269763/75db4c2a-1f0d-47f9-8d77-a6465b2f9287)
 
