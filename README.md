@@ -7,6 +7,10 @@ This is Crypto Clustering Project by YK, UofT, Canada.
 
 # Description
 
+***Checking the DataFrame with Plot***
+
+![image](https://github.com/YargKlnc/CryptoClustering/assets/142269763/dfd9b22a-8d78-4c8a-9b21-41698fcd4c8e)
+
 ***Preparing the Data***
 
 •	Using the StandardScaler() module from scikit-learn to normalize the data from the CSV file
