@@ -1,6 +1,9 @@
 # CryptoClustering
-This is Crypto Clustering Project by YK, UofT, Canada
+This is Crypto Clustering Project by YK, UofT, Canada.
+
 ***Using Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.***
+
+![image](https://github.com/YargKlnc/CryptoClustering/assets/142269763/75db4c2a-1f0d-47f9-8d77-a6465b2f9287)
 
 # Description
 
@@ -65,4 +68,7 @@ Using the following steps to cluster the cryptocurrencies for the best value for
   o	Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point
 •	Answer the following question:
   o	What is the impact of using fewer features to cluster the data using K-Means?
+
+  # References
+  Head photo rights belongs to https://decrypt.co/ 
 
