@@ -75,6 +75,24 @@ Using the following steps to cluster the cryptocurrencies for the best value for
 • Answering the following question:
   o What is the impact of using fewer features to cluster the data using K-Means?
 
+  # Summary
+
+  ![image](https://github.com/YargKlnc/CryptoClustering/assets/142269763/16b2ceec-ec8e-4b53-9286-a85da5199398)
+
+  ![image](https://github.com/YargKlnc/CryptoClustering/assets/142269763/b19d8ac4-7014-46fa-b656-b0aa5718a6bc)
+
+#### Summary: 
+
+After visually analyzing the cluster analysis results, the use of K-Means for data clustering demonstrated a significant improvement, effectively reducing ambiguity and enhancing clarity in the analysis.
+
+The Elbow Curve Analysis indicated that, although the k value remained at 4, the inertia decreased post-Principal Component Analysis (PCA). This suggests that employing fewer features resulted in more compact cluster formations.
+
+In the Scatter Plots Analysis, Principal Component Analysis successfully eliminated overlaps, particularly isolating outliers such as `ethlend` and `celsius-degree-token`. Upon closer inspection, it became evident that the use of PCA contributed to clearer cluster distinctions, highlighting the effectiveness of utilizing fewer features for more effectively separated clusters.
+
+Despite a data loss of approximately 10.5%, the analysis still produced accurate results, underscoring the effectiveness of the chosen approach.
+
+Additionally, exploring alternative models could further enhance accuracy and visibility in data analysis.
+
   # References
   
   Head photo rights belongs to https://decrypt.co/ 
