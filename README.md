@@ -7,8 +7,6 @@ This is Crypto Clustering Project by YK, UofT, Canada.
 
 # Description
 
-#### Analysis Description:
-
 This comprehensive analysis employs various techniques to cluster and analyze cryptocurrency data, aiming to enhance accuracy and visibility. The process begins with the normalization of data using the MinMaxScaler() module from scikit-learn, followed by the creation of a DataFrame with scaled data.
 
 The Elbow Curve Analysis, applied both to the original scaled DataFrame and Principal Component Analysis (PCA) data, guides the determination of the optimal value for k in K-Means clustering. The results reveal insights into the inertia values and their impact on the clustering process.
