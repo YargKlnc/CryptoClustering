@@ -5,7 +5,7 @@ This is Crypto Clustering Project by YK, UofT, Canada.
 
 ![image](https://github.com/YargKlnc/CryptoClustering/assets/142269763/75db4c2a-1f0d-47f9-8d77-a6465b2f9287)
 
-# Description
+# Overview
 
 This comprehensive analysis employs various techniques to cluster and analyze cryptocurrency data, aiming to enhance accuracy and visibility. The process begins with the normalization of data using the MinMaxScaler() module from scikit-learn, followed by the creation of a DataFrame with scaled data.
 
@@ -16,6 +16,9 @@ Further exploration involves clustering cryptocurrencies using K-Means on both t
 Despite a deliberate data loss of approximately 10.5%, the analysis consistently yields accurate results, showcasing the robustness of the chosen methodology. The readme encourages exploring alternative models to further refine accuracy and enhance data visibility.
 
 This analysis, detailed in the readme, serves as a valuable resource for understanding the intricacies of clustering cryptocurrency data and offers insights into optimizing the clustering process for improved accuracy and interpretability.
+
+
+# Achievements
 
 ***Checking the DataFrame with Plot***
 
